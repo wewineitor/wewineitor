@@ -4,6 +4,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, actualmente curso el 
 **Acerca de mi**
 - 21 años
 - Mexicano
--	Adoro los videojuegos
 -	Me gusta aprender nuevas tecnologías
--	La programación es simplemente mi gran pasión
