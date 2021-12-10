@@ -1,5 +1,5 @@
 # Hola! Yo soy Edwin, mis amigos me conocen como Wewin
-Soy estudiante de Ingeniería en Sistemas Computacionales, actualmente curso el Noveno semestre.
+Soy un apasionado por el desarrollo de Software y la tecnologia, me encanta aprender nuevas cosas y siempre estoy en constante aprendizaje.
 <br>
 **Acerca de mi**
 - 21 años
