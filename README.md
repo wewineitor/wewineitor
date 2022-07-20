@@ -4,7 +4,6 @@
 
     <h3 align = 'center'>
         Soy un apasionado por el desarrollo de Software 
-        y la tecnologia, me encanta aprender nuevas cosas 
-        y siempre estoy en constante aprendizaje.
+        
     </h3>
 </div>
