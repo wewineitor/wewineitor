@@ -12,7 +12,7 @@
 ### 👨‍💻 Sobre mi
 - 📝 Conocimientos en **HTML, CSS, Javascript, Java, React, Spring Boot**
 - 👨‍🎓 Ingeniero en sistemas computacionales
-- 📱 Me encuentro en constante aprendizaje sobre desarrollo de aplicaciones moviles con **Flutter**
+- 📱 Me encuentro en constante aprendizaje sobre desarrollo de aplicaciones moviles nativas Android con **Kotlin**
 - 👾 Apasionado de los videojuegos.
 - 📧 Puedes contactarme en mi correo **edwin.avilag1999@gmail.com**
 - 🔎 Puedes encontrar mas sobre mi en mi [Linkedin](https://www.linkedin.com/in/edwinavilag/)
@@ -28,7 +28,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt= 'SQL' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt= 'GIT' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt= 'Github' width="40" height = '40'/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt= 'Flutter' width="40" height = '40'/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt= 'Android' width="40" height = '40'/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt= 'Kotlin' width="40" height = '40'/>
 </div>
 
 ---
