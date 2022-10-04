@@ -1,7 +1,7 @@
 <div id="header" align = 'center'>
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
     <h1 align = 'center'>Hola! Mi nombre es Edwin, mis amigos me conocen como wewin</h1>
-    <h3 align = 'center'> Soy un desarrolador Fullstack. 
+    <h3 align = 'center'> Soy un desarrolador de Software. 
         Apasionado por el desarrollo de Software 
         y la tecnologia, me encanta aprender nuevas cosas 
         y siempre estoy en constante aprendizaje.
@@ -10,7 +10,6 @@
 
 ---
 ### 👨‍💻 Sobre mi
-- 📝 Conocimientos en **HTML, CSS, Javascript, Java, React, Spring Boot**
 - 👨‍🎓 Ingeniero en sistemas computacionales
 - 📱 Me encuentro en constante aprendizaje sobre desarrollo de aplicaciones moviles nativas Android con **Kotlin**
 - 👾 Apasionado de los videojuegos.
@@ -23,8 +22,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt= 'CSS' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt= 'Javascript' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt= 'React' width="40" height = '40'/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt= 'Java' width="40" height = '40'/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt= 'Spring' width="40" height = '40'/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/laravel-plain.svg" alt= 'laravel' width="40" height = '40'/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/php-original.svg" alt= 'Php' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt= 'SQL' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt= 'GIT' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt= 'Github' width="40" height = '40'/>
