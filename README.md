@@ -22,8 +22,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt= 'CSS' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt= 'Javascript' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt= 'React' width="40" height = '40'/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/spring-plain.svg" alt= 'Spring' width="40" height = '40'/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/java-original.svg" alt= 'Java' width="40" height = '40'/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg" alt= 'Spring' width="40" height = '40'/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt= 'Java' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt= 'SQL' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt= 'GIT' width="40" height = '40'/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt= 'Github' width="40" height = '40'/>
