@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
-<h3 align="center">I'm a Software Developer passionate about technology who has experience with Typescript, React, Java and Spring Boot. Applying best practices and clean coding is my passion. I love what i do and sharing what i learn.</h3>
+<h3 align="center">I'm a Software Developer passionate about technology who has experience with Go, Typescript, React, Java and Spring Boot. Applying best practices and clean coding is my passion. I love what i do and sharing what i learn.</h3>
 
 <div align="center">
    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
